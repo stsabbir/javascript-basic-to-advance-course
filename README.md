@@ -3,7 +3,7 @@
 - All official documentation website mentioned.
 - Course mentor Sabbir
 ## Episode - 1 (Welcome & Introduction)
-### 1. [Wellcome to JavaScript Full Course](https://youtu.be/SsJgkZncFMU)
+### [1. Wellcome to JavaScript Full Course](https://youtu.be/SsJgkZncFMU)
 #### 1.1 What is the programing language?
 - A programing language is a command that can make commands to our computer to finish some task.
 - **For example**: Suppose, in a room have 2 people first one is Spanish and the second one is Bangladeshi. Both people have different mother tongues. So, now just ask yourself how they make conversation. Let me tell you, they didn't able to make any conversation if there are doesn't have 3hrd person. And the 3rth person is `Programing Language`. We know, the computer only knows `Machine Language` which means `0101010101` which is binary. So, we write any language to command our computer, and this language will make conversation with the computer. This is programming language concept clear?
