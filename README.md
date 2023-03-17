@@ -23,3 +23,24 @@ Mozilla FireFox         <<<=====>>> SpiderMonkey Engine
 ```
 ##### 1.4.3 What can we do with JavaScript?
 - We can do a lot of things with JavaScript. For example, we can build `Android` Apps, `IOS` Apps, `Desktop` Apps, `Windows` Apps, `Web` Applications, and Any kind of `backend` with `NodeJs`.
+## Episode - 2 (Code Editor)
+### [2. What is a code editor?](https://youtu.be/8RCRqfUdLvI)
+#### 1.1 What is a code editor?
+- The code editor is kind of a writing board or ledger.
+- Which is help us write anything.
+#### 1.2 How much code editor have...?
+- Usually, the code editor is only 2 types.
+1. IDE
+> IDE stand for **Integrated Development Environment**
+> The below section includes some most popular IDE. For example:
+> - [Visual Studio](https://visualstudio.microsoft.com/) -> `remember, it's not a Visual Studio code` it's a Visual Studio
+> - [Xcode](https://developer.apple.com/xcode/) -> Basically, `Xcode is for only macOS`
+> - [Android Studio](https://developer.android.com/studio) -> We know it's a very popular IDE
+> - [Arduino IDE](https://www.arduino.cc/en/software)
+2. Lightweight Code editor
+> - [Visual Studio Code](https://code.visualstudio.com/) -> One of the best code editor for every developer.
+> - [Atom](https://atom.en.softonic.com/)
+> - [Sublime Text](https://www.sublimetext.com/)
+> - [Brackets](https://brackets.io/)
+> - [Nodepad++](https://notepad-plus-plus.org/downloads/)
+> - 
