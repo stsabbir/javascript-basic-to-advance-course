@@ -17,9 +17,9 @@
 ##### 1.4.2 Names of various JavaScript engines?
 ```
 Brave or Chrome or Opra <<<=====>>> V8
-Edge					          <<<=====>>> Chakra Core
-Safari					        <<<=====>>> "Nitro" and "SquirrelFish"
-Mozilla FireFox			    <<<=====>>> SpiderMonkey Engine
+Edge                    <<<=====>>> Chakra Core
+Safari                  <<<=====>>> "Nitro" and "SquirrelFish"
+Mozilla FireFox         <<<=====>>> SpiderMonkey Engine
 ```
 ##### 1.4.3 What can we do with JavaScript?
 - We can do a lot of things with JavaScript. For example, we can build `Android` Apps, `IOS` Apps, `Desktop` Apps, `Windows` Apps, `Web` Applications, and Any kind of `backend` with `NodeJs`.
